@@ -1,2 +1,1 @@
-# OSMPose
-SJTU Master's Thesis in Mechanical Engineering
+A just cause attracts much support
